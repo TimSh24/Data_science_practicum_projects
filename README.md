@@ -4,7 +4,7 @@
 
 ## 🧠 Проекты
 
-### 1. [Customer Churn Prediction](customer-churn-prediction)
+### 1. [Customer Churn Prediction](Telecom_customer_churn.ipynb)
 Предсказание оттока клиентов телеком-компании.  
 **Инструменты:** Python, pandas, scikit-learn, CatBoost  
 **Навыки:** обработка данных, обучение моделей, оценка метрик.
