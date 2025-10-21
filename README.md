@@ -11,6 +11,11 @@
 
 ### 2. [Sentiment Analysis](sentiment-analysis)
 Анализ тональности отзывов.  
-**Инструменты:** Python, nltk, Logistic Regression,BERT  
+**Инструменты:** Python, nltk, Logistic Regression, BERT  
 **Навыки:** обработка текста, NLP, визуализация.
+
+### 2. [Well_location_selection](sentiment-analysis)
+Анализ тональности отзывов.  
+**Инструменты:** Python, pandas, scikit-learn  
+**Навыки:** обработка данных, обучение моделей, Bootstrap
 
