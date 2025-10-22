@@ -9,12 +9,12 @@
 **Инструменты:** Python, pandas, scikit-learn, CatBoost  
 **Навыки:** обработка данных, обучение моделей, оценка метрик.
 
-### 2. [Sentiment Analysis](sentiment-analysis)
+### 2. [Sentiment Analysis](https://github.com/TimSh24/Data_science_practicum_projects/blob/main/Sentiment_analysis/Sentiment_analysis.ipynb)
 Анализ тональности отзывов.  
 **Инструменты:** Python, nltk, Logistic Regression, BERT  
 **Навыки:** обработка текста, NLP, визуализация.
 
-### 2. [Well_location_selection](sentiment-analysis)
+### 2. [Well_location_selection](https://github.com/TimSh24/Data_science_practicum_projects/blob/main/Sentiment_analysis/Sentiment_analysis.ipynb)
 Выбор локации для скважины  
 **Инструменты:** Python, pandas, scikit-learn  
 **Навыки:** обработка данных, обучение моделей, Bootstrap.
