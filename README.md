@@ -14,7 +14,7 @@
 **Инструменты:** Python, nltk, Logistic Regression, BERT  
 **Навыки:** обработка текста, NLP, визуализация.
 
-### 2. [Well_location_selection](https://github.com/TimSh24/Data_science_practicum_projects/blob/main/Well_location_selection/Well_location_selection.ipynb)
+### 3. [Well_location_selection](https://github.com/TimSh24/Data_science_practicum_projects/blob/main/Well_location_selection/Well_location_selection.ipynb)
 Выбор локации для скважины  
 **Инструменты:** Python, pandas, scikit-learn  
 **Навыки:** обработка данных, обучение моделей, Bootstrap.
