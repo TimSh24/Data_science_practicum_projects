@@ -19,3 +19,7 @@
 **Инструменты:** Python, pandas, scikit-learn  
 **Навыки:** обработка данных, обучение моделей, Bootstrap.
 
+### 4. [Age_prediction_from_photos](https://github.com/TimSh24/Data_science_practicum_projects/blob/main/Well_location_selection/Well_location_selection.ipynb)
+Выбор локации для скважины  
+**Инструменты:** Python, pandas, keras  
+**Навыки:** обработка данных, обучение моделей, computer vision.
