@@ -23,3 +23,8 @@
 Предсказание возраста покупателей по фото  
 **Инструменты:** Python, pandas, keras  
 **Навыки:** computer vision.
+
+### 4. [Taxi_demand_forecasting](https://github.com/TimSh24/Data_science_practicum_projects/blob/main/Age_prediction_from_photos/Age_prediction_from_photos.ipynb)
+Предсказание заказов такси  
+**Инструменты:** Python, pandas, time series  
+**Навыки:** time series prediction.
